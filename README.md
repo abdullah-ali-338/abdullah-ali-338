@@ -1,62 +1,49 @@
-# Abdullah Ali
+# 🏄‍♂️ Abdullah Ali
 
-Backend Software Engineer | Computer Science Undergraduate at UMT Lahore
+`Backend Software Engineer` `Systems & API Architect`
 
-Focused on building high-performance server architectures, robust APIs, and low-latency systems. Experienced in Python microservices, clean RESTful contracts, and high-speed LLM inference pipelines.
-
----
-
-### 🛠 Tech Stack
-
-* **Languages:** Python, C++, C, JavaScript, SQL
-* **Backend & Frameworks:** Flask, RESTful APIs, Backend Architecture
-* **Tools & Platforms:** Git, GitHub, VS Code, Render, DuckDNS
-* **Core Competencies:** Memory Safety, Automation Scripting, File I/O Streams, LLM Prompt Engineering & Inference Pipelines
+I'm a backend software engineer focused on building low-latency architectures, robust APIs, and high-performance server logic. Currently optimizing backend microservices and experimenting with rapid inference systems.
 
 ---
 
-### 💼 Experience
+### 🧰 Languages and Tools
 
-#### Backend Engineering Intern (Remote)
-**DevConnect** · Germany  
-*September 2026 – Present*
-* Developing and optimizing backend microservices and server-side workflows using Python.
-* Designing structured, low-latency RESTful API contracts.
-* Managing collaborative Git workflows and CI/CD pipelines in a remote environment.
-
----
-
-### 🚀 Featured Projects
-
-#### [Widget AI](https://widget-ai.duckdns.org)
-*Mobile-First Conversational AI Interface*
-* Engineered a sub-second response streaming assistant using Groq LPUs (`openai/gpt-oss-20b`) and a lightweight Python/Flask backend.
-* Designed a zero-dependency glassmorphic UI with dynamic mobile `visualViewport` management to prevent virtual keyboard layout breaks.
-* Integrated real-time Markdown parsing and instant client-side rendering.
-
-#### [Terminal Hangman Engine](https://github.com/abdullah-ali-338/hangman-engine-cpp)
-*Procedural C++ Terminal Application*
-* Built a modular 250+ LOC terminal game engine with 7 progressive ASCII lifecycle states.
-* Implemented an `fstream` pipeline to load word banks and persist session metrics.
-* Resolved 15+ input edge cases via ASCII arithmetic and state tracking arrays.
-
-#### [Automated File Organizer & Audit Logger](https://github.com/abdullah-ali-338/automated-file-organizer-python)
-*Cross-Platform Python Automation*
-* Developed an automation utility sorting unstructured directories across 7 file categories.
-* Implemented structured logging for audit tracking and non-destructive path collision handling.
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+</p>
 
 ---
 
-### 🎓 Education & Certifications
+### 🚀 Selected Projects
 
-* **BS in Computer Science** — University of Management and Technology (UMT), Lahore *(Expected 2029)*  
-  * Merit Scholarship Recipient
-* **Start Writing Prompts like a Pro** — Google via Coursera
+* **[Widget AI](https://widget-ai.duckdns.org)** — Sub-second streaming conversational assistant built on Groq LPUs and Python/Flask with dynamic mobile viewport management.
+* **[Terminal Hangman Engine](https://github.com/abdullah-ali-338/hangman-engine-cpp)** — Modular 250+ LOC procedural C++ engine using `fstream` serialization and ASCII display frames.
+* **[Automated File Organizer](https://github.com/abdullah-ali-338/automated-file-organizer-python)** — Structured Python automation tool with audit logging and path resolution.
 
 ---
 
-### 📬 Connect With Me
+### 💼 Current Work & Education
 
-* **Email:** [abdullahhh33846@gmail.com](mailto:abdullahhh33846@gmail.com)
-* **LinkedIn:** [linkedin.com/in/abdullah-ali-se](https://www.linkedin.com/in/abdullah-ali-se)
-* **GitHub:** [github.com/abdullah-ali-338](https://github.com/abdullah-ali-338)
+* 🏢 **Backend Engineering Intern (Remote)** at **DevConnect** (Germany)
+* 🎓 **BS in Computer Science** at **UMT Lahore** (Expected 2029)
+
+---
+
+### 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/abdullah-ali-se" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:abdullahhh33846@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
