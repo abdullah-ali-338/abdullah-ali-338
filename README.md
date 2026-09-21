@@ -1,4 +1,4 @@
-# 🏄‍♂️ Abdullah Ali
+# Abdullah Ali
 
 `Backend Software Engineer` `Systems & API Architect`
 
@@ -6,7 +6,7 @@ I'm a backend software engineer focused on building low-latency architectures, r
 
 ---
 
-### 🧰 Languages and Tools
+### Languages and Tools
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="Flask" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
@@ -21,7 +21,7 @@ I'm a backend software engineer focused on building low-latency architectures, r
 
 ---
 
-### 🚀 Selected Projects
+### Selected Projects
 
 * **[Widget AI](https://widget-ai.duckdns.org)** — Low-latency conversational AI engine powered by Groq LPUs & Flask.
 * **[Terminal Hangman Engine](https://github.com/abdullah-ali-338/hangman-engine-cpp)** — Procedural C++ terminal engine featuring progressive ASCII states and `fstream` persistence.
@@ -29,14 +29,14 @@ I'm a backend software engineer focused on building low-latency architectures, r
   
 ---
 
-### 💼 Work & Education
+### Work & Education
 
 * 🏢 **Backend Engineering Intern (Remote)** at **DevConnect** (Germany) (September 2026)
 * 🎓 **BS in Computer Science** at **UMT Lahore** (Expected 2029)
 
 ---
 
-### 🌐 Connect With Me
+### Connect With Me
 
 <a href="https://www.linkedin.com/in/abdullah-ali-se" target="_blank">
   <img align="left" alt="LinkedIn" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
