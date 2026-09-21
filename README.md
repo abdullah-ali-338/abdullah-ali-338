@@ -23,10 +23,10 @@ I'm a backend software engineer focused on building low-latency architectures, r
 
 ### 🚀 Selected Projects
 
-* **[Widget AI](https://widget-ai.duckdns.org)** — Sub-second streaming conversational assistant built on Groq LPUs and Python/Flask with dynamic mobile viewport management.
-* **[Terminal Hangman Engine](https://github.com/abdullah-ali-338/hangman-engine-cpp)** — Modular 250+ LOC procedural C++ engine using `fstream` serialization and ASCII display frames.
-* **[Automated File Organizer](https://github.com/abdullah-ali-338/automated-file-organizer-python)** — Structured Python automation tool with audit logging and path resolution.
-
+* **[Widget AI](https://widget-ai.duckdns.org)** — Low-latency conversational AI engine powered by Groq LPUs & Flask.
+* **[Terminal Hangman Engine](https://github.com/abdullah-ali-338/hangman-engine-cpp)** — Procedural C++ terminal engine featuring progressive ASCII states and `fstream` persistence.
+* **[Automated File Organizer](https://github.com/abdullah-ali-338/automated-file-organizer-python)** — Python automation utility for directory sorting and audit logging.
+  
 ---
 
 ### 💼 Work & Education
