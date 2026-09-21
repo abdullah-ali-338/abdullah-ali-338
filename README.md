@@ -1,4 +1,4 @@
-# Muhammad Abdullah Ali
+# Abdullah Ali
 
 Backend Software Engineer | Computer Science Undergraduate at UMT Lahore
 
