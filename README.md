@@ -1,4 +1,4 @@
-<div style="font-size: 65px; font-weight: bold;">Abdullah Ali</div>
+### Abdullah Ali
 
 ---
 
