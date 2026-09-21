@@ -1,10 +1,13 @@
 # Abdullah Ali
 
+---
+
 `Backend Software Engineer` `Systems & API Architect`
 
 I'm a backend software engineer dedicated to designing low-latency architectures, robust APIs, and high-performance server logic. My work centers on building scalable microservices, structuring clean data communication pipelines, and optimizing throughput using modern backend frameworks like Python and Flask. Beyond core infrastructure, I integrate low-latency artificial intelligence inference engines, automate system workflows, and write deterministic code in languages like C++ to maintain memory safety and operational reliability. Driven by clean architecture and lean execution, I focus on engineering dependable, production-ready software solutions built to solve complex engineering challenges efficiently.
 
 ---
+
 ### Languages and Tools
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
@@ -30,8 +33,8 @@ I'm a backend software engineer dedicated to designing low-latency architectures
 
 ### Work & Education
 
-* 🏢 **Backend Engineering Intern (Remote)** at **DevConnect** (Germany) (September 2026)
-* 🎓 **BS in Computer Science** at **UMT Lahore** (Expected 2029)
+* **Backend Engineering Intern (Remote)** at **DevConnect** (Germany) (September 2026)
+* **BS in Computer Science** at **UMT Lahore** (Expected 2029)
 
 ---
 
