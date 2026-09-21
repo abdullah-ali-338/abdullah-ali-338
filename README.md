@@ -1,4 +1,4 @@
-<div style="font-size: 32px; font-weight: bold;">Abdullah Ali</div>
+<div style="font-size: 65px; font-weight: bold;">Abdullah Ali</div>
 
 ---
 
