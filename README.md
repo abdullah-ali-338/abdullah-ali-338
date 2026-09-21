@@ -29,9 +29,9 @@ I'm a backend software engineer focused on building low-latency architectures, r
 
 ---
 
-### 💼 Current Work & Education
+### 💼 Work & Education
 
-* 🏢 **Backend Engineering Intern (Remote)** at **DevConnect** (Germany)
+* 🏢 **Backend Engineering Intern (Remote)** at **DevConnect** (Germany) (September 2026)
 * 🎓 **BS in Computer Science** at **UMT Lahore** (Expected 2029)
 
 ---
