@@ -22,8 +22,6 @@ I'm a backend software engineer focused on building low-latency architectures, r
 </p>
 <br /><br />
 
-<hr style="border: none; border-top: 1px solid #30363d; margin: 20px 0;" />
-
 ### 🚀 Selected Projects
 
 * **[Widget AI](https://widget-ai.duckdns.org)** — Low-latency conversational AI engine powered by Groq LPUs & Flask.
