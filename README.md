@@ -38,11 +38,13 @@ I'm a backend software engineer focused on building low-latency architectures, r
 
 ### 🌐 Connect With Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/abdullah-ali-se" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:abdullahhh33846@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+<a href="https://www.linkedin.com/in/abdullah-ali-se" target="_blank">
+  <img align="left" alt="LinkedIn" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+</a>
+<a href="mailto:abdullahhh33846@gmail.com">
+  <img align="left" alt="Email" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" />
+</a>
+<a href="https://github.com/abdullah-ali-338" target="_blank">
+  <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+</a>
+<br />
